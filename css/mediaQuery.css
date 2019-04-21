@@ -1,0 +1,91 @@
+
+
+
+@media screen and (max-width: 768px) {
+
+    #logo{
+        height: 61px;
+    width: 80px;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        color: orange;
+        font-size: 20px;
+        font-family: merriweather,serif;
+        padding: 11px;
+        font-weight: bolder;
+        padding-bottom: 5px;
+    }
+    .dropdown-menu a {
+        color: orange;
+        font-family: merriweather,serif;
+        font-weight: bolder;
+        font-size: 16px;
+    }
+
+    .my-carousel{
+        padding-top:85px;
+      }
+
+      .carousel-caption h5{
+          font-size: 1.02rem;
+      }
+      
+    .btn{
+        font-size: 15px;
+        padding-left: 17px;
+        padding-right: 17px;
+    }
+
+    .testomonial-circle{
+        padding-left: 50px;
+    }
+}
+
+
+/* ----------------- */
+
+@media screen and (max-width: 768px) and (orientation : landscape) {
+
+    #logo{
+        height: 61px;
+    width: 80px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        color: orange;
+        font-size: 20px;
+        font-family: merriweather,serif;
+        padding: 11px;
+        font-weight: bolder;
+        padding-bottom: 5px;
+    }
+    .dropdown-menu a {
+        color: orange;
+        font-family: merriweather,serif;
+        font-weight: bolder;
+        font-size: 16px;
+    }
+
+    .my-carousel{
+        padding-top:85px;
+      }
+
+      .carousel-caption h5{
+          font-size: 1.02rem;
+      }
+
+      h2 {
+        font-size: 26px;
+    }
+
+    .btn{
+        font-size: 15px;
+        padding-left: 17px;
+        padding-right: 17px;
+    }
+}
